@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: avatarSimpleBase
+grpc:
+  server:
+    port: 8082
+    plaintext: true
